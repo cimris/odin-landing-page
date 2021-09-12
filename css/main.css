@@ -1,5 +1,9 @@
 /* CSS Styles */
 /* Body CSS Used to Push Footer To Bottom of Viewport */
+* {
+  border: 1px solid red;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -16,4 +20,5 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: auto;
 }
