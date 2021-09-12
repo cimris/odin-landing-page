@@ -1,1 +1,19 @@
 /* CSS Styles */
+/* Body CSS Used to Push Footer To Bottom of Viewport */
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+/* Header and Footer Background Color */
+header footer {
+  background-color: #1f2937;
+}
+
+/* Footer Styling */
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
