@@ -167,10 +167,8 @@ header {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
-  margin-left: 200px;
-  margin-right: 200px;
   align-items: center;
-  padding: 20px;
+  padding: 100px 200px 100px 200px;
   background-color: #e5e7eb;
 }
 
