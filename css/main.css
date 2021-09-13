@@ -65,8 +65,9 @@ li {
   justify-content: space-between;
   margin-left: 200px;
   margin-right: 200px;
+  gap: 40px;
   align-items: center;
-  padding: 20px;
+  padding: 80px 20px 80px 20px;
 }
 
 .page-catch h1 {
@@ -88,7 +89,7 @@ li {
 }
 
 .page-catch-two img {
-  height: 200px;
+  height: 300px;
   width: auto;
 }
 /* Footer Styling */
