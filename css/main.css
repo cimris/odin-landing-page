@@ -127,7 +127,11 @@ header {
 }
 /* Information Area Styling */
 .information-wrapper {
-  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  gap: 40px;
 }
 
 .information-wrapper h1 {
