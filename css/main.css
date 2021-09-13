@@ -66,7 +66,7 @@ header {
   margin-left: 200px;
   margin-right: 200px;
   gap: 40px;
-  padding: 80px 20px 80px 20px;
+  padding: 100px 20px 100px 20px;
 }
 
 /* Styling for First Text Blob */
@@ -96,10 +96,10 @@ header {
   font-weight: 500;
   text-align: center;
   vertical-align: middle;
-  border-radius: 4px;
+  border-radius: 8px;
   border: 1px solid transparent;
   padding: 9px 23px;
-  width: 96px;
+  width: 84px;
 }
 
 .page-catch-one a {
