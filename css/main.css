@@ -1,5 +1,5 @@
 /* CSS Styles */
-/* Body CSS Used to Push Footer To Bottom of Viewport */
+/* Placeholder Box CSS Delete Later */
 * {
   border: 1px solid red;
 }
@@ -48,5 +48,12 @@ li {
 .page-catch p {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.page-catch a {
+  color: #f9faf8;
+  background-color: #3882f6;
+  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+  font-size: 18px;
 }
 /* Footer Styling */
