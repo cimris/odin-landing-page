@@ -38,4 +38,15 @@ li {
   justify-content: space-evenly;
   align-items: center;
 }
+
+.page-catch h1 {
+  font-size: 48px;
+  font-weight: 800; /* Extra Bold */
+  color: #f9faf8;
+}
+
+.page-catch p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
 /* Footer Styling */
