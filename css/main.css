@@ -139,4 +139,10 @@ header {
   font-weight: 800; /* Extra Bold */
   color: #1f2937;
 }
+
+/* Horizontal Images Flexbox */
+.information-images {
+  display: flex;
+  flex-direction: row;
+}
 /* Footer Styling */
