@@ -130,7 +130,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 40px;
+  padding: 40px 40px 100px 40px;
   gap: 40px;
 }
 
@@ -144,11 +144,14 @@ header {
 .information-images {
   display: flex;
   flex-direction: row;
+  gap: 20px;
 }
 
 .information-images img {
   height: 200px;
   width: 200px;
   object-fit: cover;
+  border: 5px solid #3882f6;
+  border-radius: 16px;
 }
 /* Footer Styling */
