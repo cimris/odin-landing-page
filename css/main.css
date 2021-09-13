@@ -57,7 +57,7 @@ li {
   text-decoration: underline;
 }
 
-/* Header Main Text */
+/* Header Main Text Flex Box and Overall Position */
 .page-catch {
   display: flex;
   flex-direction: row;
@@ -66,28 +66,35 @@ li {
   margin-left: 200px;
   margin-right: 200px;
   gap: 40px;
-  align-items: center;
   padding: 80px 20px 80px 20px;
 }
 
-.page-catch h1 {
+/* Styling for First Text Blob */
+.page-catch-one {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.page-catch-one h1 {
   font-size: 48px;
   font-weight: 800; /* Extra Bold */
   color: #f9faf8;
 }
 
-.page-catch p {
+.page-catch-one p {
   font-size: 18px;
   color: #e5e7eb;
 }
 
-.page-catch a {
+.page-catch-one a {
   color: #f9faf8;
   background-color: #3882f6;
-  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
 
+/* Styling for First Image */
 .page-catch-two img {
   height: 300px;
   width: auto;
