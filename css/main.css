@@ -4,6 +4,10 @@
   border: 1px solid red;
 }
 
+/* Default Font */
+body {
+  font-family: arial, sans-serif;
+}
 /* Header and Footer Background Color */
 header {
   background-color: #1f2937;
@@ -17,7 +21,9 @@ li {
 .nav-bar {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 150px;
   align-items: center;
 }
 
@@ -35,7 +41,8 @@ li {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 100px;
   align-items: center;
 }
 
@@ -55,5 +62,10 @@ li {
   background-color: #3882f6;
   font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
   font-size: 18px;
+}
+
+.page-catch-two img {
+  height: 200px;
+  width: auto;
 }
 /* Footer Styling */
