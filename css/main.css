@@ -57,6 +57,11 @@ header {
   text-decoration: underline;
 }
 
+/* Spacing Between Header Links*/
+.header-links a {
+  margin-left: 20px;
+}
+
 /* Header Main Text Flex Box and Overall Position */
 .page-catch {
   display: flex;
@@ -74,7 +79,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 10px;
+  gap: 20px;
 }
 
 .page-catch-one h1 {
