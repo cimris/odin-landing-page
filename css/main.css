@@ -11,10 +11,31 @@ body {
 }
 
 /* Header and Footer Background Color */
-header footer {
+header {
   background-color: #1f2937;
 }
 
+/* Header Navigation Bar */
+li {
+  display: inline-block;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.header-links {
+  font-size: 18px;
+  color: #e5e7eb;
+}
 /* Footer Styling */
 footer {
   display: flex;
