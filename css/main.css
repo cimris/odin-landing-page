@@ -30,12 +30,25 @@ li {
 
 .header-logo {
   font-size: 24px;
+  font-weight: 600;
   color: #f9faf8;
 }
 
 .header-links {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.header-links a {
+  text-decoration: none;
+}
+
+.header-links a:visited {
+  color: inherit;
+}
+
+.header-links a:hover {
+  text-decoration: underline;
 }
 /* Header Main Text */
 .page-catch {
