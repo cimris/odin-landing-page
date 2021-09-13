@@ -23,8 +23,9 @@ li {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
-  gap: 150px;
+  gap: 500px;
   align-items: center;
+  padding: 20px;
 }
 
 .header-logo {
