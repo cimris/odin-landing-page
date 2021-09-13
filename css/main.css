@@ -28,7 +28,6 @@ li {
   justify-content: space-between;
   margin-left: 200px;
   margin-right: 200px;
-  min-width: 600px; /* Work on Stopping Shrink for Now */
   align-items: center;
   padding: 20px;
 }
@@ -62,10 +61,12 @@ li {
 .page-catch {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 100px;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 200px;
   align-items: center;
+  padding: 20px;
 }
 
 .page-catch h1 {
