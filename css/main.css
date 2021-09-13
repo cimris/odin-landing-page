@@ -154,4 +154,8 @@ header {
   border: 5px solid #3882f6;
   border-radius: 16px;
 }
+
+.information-images p {
+  text-align: center;
+}
 /* Footer Styling */
