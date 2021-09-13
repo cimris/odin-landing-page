@@ -16,7 +16,7 @@ header {
 
 /* Header Navigation Bar */
 /* The Following Makes the List Horizontal for Logo and Links */
-li {
+.nav-bar li {
   display: inline-block;
 }
 
@@ -92,6 +92,18 @@ li {
   color: #f9faf8;
   background-color: #3882f6;
   font-size: 18px;
+}
+
+.page-catch-one a {
+  text-decoration: none;
+}
+
+.page-catch-one a:visited {
+  color: inherit;
+}
+
+.page-catch-one a:hover {
+  text-decoration: underline;
 }
 
 /* Styling for First Image */
