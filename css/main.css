@@ -30,4 +30,12 @@ li {
   font-size: 18px;
   color: #e5e7eb;
 }
+/* Header Main Text */
+.page-catch {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
 /* Footer Styling */
