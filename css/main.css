@@ -26,7 +26,7 @@ li {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
-  gap: 500px;
+  gap: 350px;
   align-items: center;
   padding: 20px;
 }
