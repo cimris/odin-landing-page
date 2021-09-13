@@ -8,16 +8,19 @@
 body {
   font-family: arial, sans-serif;
 }
+
 /* Header and Footer Background Color */
 header {
   background-color: #1f2937;
 }
 
 /* Header Navigation Bar */
+/* The Following Makes the List Horizontal for Logo and Links */
 li {
   display: inline-block;
 }
 
+/* Nav Bar Flex Box and Spacing */
 .nav-bar {
   display: flex;
   flex-direction: row;
@@ -28,6 +31,7 @@ li {
   padding: 20px;
 }
 
+/* Header Logo and Links Text and Color Styling */
 .header-logo {
   font-size: 24px;
   font-weight: 600;
@@ -39,6 +43,7 @@ li {
   color: #e5e7eb;
 }
 
+/* Header Links Visited and Hover States */
 .header-links a {
   text-decoration: none;
 }
@@ -50,6 +55,7 @@ li {
 .header-links a:hover {
   text-decoration: underline;
 }
+
 /* Header Main Text */
 .page-catch {
   display: flex;
