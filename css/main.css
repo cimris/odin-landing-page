@@ -161,4 +161,23 @@ header {
   text-align: center;
   margin-top: 5px;
 }
+/* Quote Area Styling */
+.quote-area-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-items: center;
+  padding: 20px;
+  background-color: #e5e7eb;
+}
+
+.quote-area-wrapper p {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 300; /* Light */
+  font-style: italic;
+}
 /* Footer Styling */
