@@ -125,4 +125,14 @@ header {
   height: 300px;
   width: auto;
 }
+/* Information Area Styling */
+.information-wrapper {
+  padding: 20px;
+}
+
+.information-wrapper h1 {
+  font-size: 36px;
+  font-weight: 800; /* Extra Bold */
+  color: #1f2937;
+}
 /* Footer Styling */
