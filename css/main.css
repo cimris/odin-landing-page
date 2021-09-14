@@ -177,6 +177,16 @@ header {
   font-weight: 300; /* Light */
   font-style: italic;
 }
+/*Video Area Styling */
+.video-area-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 140px 200px 140px 200px;
+  background-color: black;
+}
 /* Call to Action Styling */
 .call-wrapper {
   display: flex;
