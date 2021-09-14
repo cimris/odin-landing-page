@@ -5,7 +5,7 @@ body {
 }
 
 /* Header and Footer Background Color */
-header {
+.top-gradient {
   background-image: linear-gradient(
     #f1e6b2,
     #e06287,
