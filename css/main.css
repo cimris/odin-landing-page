@@ -6,7 +6,11 @@ body {
 
 /* Header and Footer Background Color */
 header {
-  background-color: #1f2937;
+  background-image: linear-gradient(
+    #f1e6b2,
+    #e06287,
+    #7474c1
+  ); /*These are the official EXID colors */
 }
 
 /* Header Navigation Bar */
@@ -16,6 +20,7 @@ header {
 }
 
 /* Nav Bar Flex Box and Spacing */
+/* I generally dislike how this wraps */
 .nav-bar {
   display: flex;
   flex-direction: row;
@@ -234,7 +239,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #1f2937;
+  background-image: linear-gradient(#f1e6b2, #e06287, #7474c1);
   color: #f9faf8;
   padding: 42px;
 }
