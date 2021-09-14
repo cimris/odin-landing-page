@@ -34,12 +34,12 @@ header {
 .header-logo {
   font-size: 24px;
   font-weight: 600;
-  color: #f9faf8;
+  color: black;
 }
 
 .header-links {
   font-size: 18px;
-  color: #e5e7eb;
+  color: black;
 }
 
 /* Header Links Visited and Hover States */
@@ -248,7 +248,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-image: linear-gradient(#f1e6b2, #e06287, #7474c1);
+  background-color: black;
   color: #f9faf8;
   padding: 42px;
 }
