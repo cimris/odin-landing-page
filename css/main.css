@@ -34,12 +34,12 @@ header {
 .header-logo {
   font-size: 24px;
   font-weight: 600;
-  color: black;
+  color: #2b2b2b;
 }
 
 .header-links {
   font-size: 18px;
-  color: black;
+  color: #2b2b2b;
 }
 
 /* Header Links Visited and Hover States */
@@ -94,7 +94,7 @@ header {
 /* Sign Up Button Styling */
 .page-catch-one a {
   color: #f9faf8;
-  background-color: black;
+  background-color: #2b2b2b;
   font-size: 18px;
   font-weight: 600;
   text-align: center;
@@ -135,7 +135,7 @@ header {
 .information-wrapper h1 {
   font-size: 36px;
   font-weight: 800; /* Extra Bold */
-  color: #1f2937;
+  color: #2b2b2b;
 }
 
 /* Horizontal Images Flexbox */
@@ -149,7 +149,7 @@ header {
   height: 200px;
   width: 200px;
   object-fit: cover;
-  border: 5px solid black;
+  border: 5px solid #2b2b2b;
   border-radius: 16px;
 }
 
@@ -198,7 +198,7 @@ header {
   flex-direction: row;
   gap: 80px; /* Why is Justify Content Not Working Here */
   color: #f9faf8;
-  background-color: #161616;
+  background-color: #2b2b2b;
   border-radius: 8px;
   padding: 55px 200px 55px 200px;
 }
@@ -246,7 +246,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #161616;
+  background-color: #2b2b2b;
   color: #f9faf8;
   padding: 42px;
 }
