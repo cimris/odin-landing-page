@@ -181,7 +181,6 @@ header {
 .video-area-wrapper {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
   padding: 140px 200px 140px 200px;
