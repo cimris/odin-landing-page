@@ -94,7 +94,7 @@ header {
 /* Sign Up Button Styling */
 .page-catch-one a {
   color: #f9faf8;
-  background-color: #3882f6;
+  background-color: black;
   font-size: 18px;
   font-weight: 600;
   text-align: center;
@@ -115,7 +115,6 @@ header {
 
 .page-catch-one a:hover {
   text-decoration: underline;
-  background-color: rgba(56, 130, 246, 0.9);
 }
 
 /* Styling for First Image */
