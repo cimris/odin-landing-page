@@ -185,7 +185,7 @@ header {
 .call-blue-box {
   display: flex;
   flex-direction: row;
-  align-items: space-between;
+  gap: 80px; /* Why is Justify Content Not Working Here */
   color: #f9faf8;
   background-color: #3882f6;
   border-radius: 8px;
@@ -194,6 +194,10 @@ header {
 
 .call-text {
   color: #f9faf8;
+}
+
+.call-text h2 {
+  margin-bottom: 5px;
 }
 
 .call-button {
