@@ -24,7 +24,7 @@ header {
 .nav-bar {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   padding: 20px 200px 20px 200px;
@@ -127,6 +127,7 @@ header {
 .information-wrapper {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   align-items: center;
   padding: 60px 40px 80px 40px;
   gap: 60px;
