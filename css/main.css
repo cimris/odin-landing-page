@@ -20,21 +20,20 @@ body {
 }
 
 /* Nav Bar Flex Box and Spacing */
-/* I generally dislike how this wraps */
 .nav-bar {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
-  padding: 20px 200px 20px 200px;
+  padding: 20px 10% 20px 10%;
 }
 
-/* Header Logo and Links Text and Color Styling */
+/* Header Logo and Links Text, Color Styling */
 .header-logo {
   font-size: 24px;
   font-weight: 600;
   color: #2b2b2b;
+  margin-right: auto;
 }
 
 .header-links {
