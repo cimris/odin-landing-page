@@ -226,7 +226,7 @@ header {
   vertical-align: middle;
   border-radius: 8px;
   border: 2px solid #f9faf8;
-  padding: 9px 23px;
+  padding: 9px 23px 9px 23px;
   width: 84px;
 }
 
@@ -240,7 +240,6 @@ header {
 
 .call-button a:hover {
   text-decoration: underline;
-  background-color: rgba(56, 130, 246, 0.9);
 }
 /* Footer Styling */
 footer {
