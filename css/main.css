@@ -189,6 +189,10 @@ body {
   font-weight: 300; /* Light */
   font-style: italic;
 }
+
+.quote-area-wrapper span {
+  font-weight: 800; /* Extra Bold */
+}
 /*Video Area Styling */
 .video-area-wrapper {
   display: flex;
