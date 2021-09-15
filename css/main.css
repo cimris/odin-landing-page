@@ -193,6 +193,7 @@ body {
 
 .quote-area-wrapper span {
   font-weight: 800; /* Extra Bold */
+  margin-left: 13%;
 }
 /*Video Area Styling */
 .video-area-wrapper {
