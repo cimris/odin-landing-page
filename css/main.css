@@ -49,7 +49,10 @@ body {
 /* Header Links Visited and Hover States */
 .header-links a {
   text-decoration: none;
-  color: #1c1c1c;
+}
+
+.header-links a:link {
+  color: inherit;
 }
 
 .header-links a:visited {
