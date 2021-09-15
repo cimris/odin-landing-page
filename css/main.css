@@ -49,9 +49,6 @@ body {
 /* Header Links Visited and Hover States */
 .header-links a {
   text-decoration: none;
-}
-
-.header-links a:link {
   color: #1c1c1c;
 }
 
