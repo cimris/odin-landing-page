@@ -136,7 +136,7 @@ body {
   color: #1c1c1c;
 }
 
-/* Horizontal Images Flexbox */
+/* Horizontal Images Flexbox and Position */
 .information-images {
   display: flex;
   flex-direction: row;
@@ -152,6 +152,17 @@ body {
   border-radius: 16px;
 }
 
+.solji {
+  object-position: 0 90%;
+}
+
+.le {
+  object-position: 0 0;
+}
+
+.jeonghwa {
+  object-position: 0 10%;
+}
 .information-images p {
   color: #1c1c1c;
   font-size: 18px;
