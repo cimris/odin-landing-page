@@ -14,4 +14,7 @@ _Work History_
 
 I did take a moment during work - may as well - to come back and finish all the inital positioning. Now just to figure out all the quirks, and then maybe take some more time to style this a bit differently than the project specifications.
 
-TODO: Fix Flex Box Behavior, EXID Styling, Clean CSS
+14/09/21 Initial project done! I went off and had fun with it, completely changing the styling from the default project, but I more or less followed the specs asked for. There are still maybe one or two little things with Flexbox that mess me up sometimes but I feel much more competent than I did before. I am sure with further practice I will continue to improve as well!
+
+_Note_
+I did not test this on multiple devices and all different viewport dimensions. I did, however, make sure it was basically usable. I realise there is a lot more to be done when accounting for different viewports and devices that would require me to also become more comfortable using CSS Grid, however, I felt that was a bit outside the asked for scope of this project.
