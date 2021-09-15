@@ -51,6 +51,10 @@ body {
   text-decoration: none;
 }
 
+.header-links a:link {
+  color: inherit;
+}
+
 .header-links a:visited {
   color: inherit;
 }
