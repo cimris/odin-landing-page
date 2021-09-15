@@ -52,7 +52,7 @@ body {
 }
 
 .header-links a:link {
-  color: inherit;
+  color: #1c1c1c;
 }
 
 .header-links a:visited {
