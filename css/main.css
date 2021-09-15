@@ -30,10 +30,15 @@ body {
 
 /* Header Logo and Links Text, Color Styling */
 .header-logo {
-  font-size: 24px;
+  /* font-size: 24px;
   font-weight: 600;
-  color: #1c1c1c;
+  color: #1c1c1c; This text is not being used */
   margin-right: auto;
+}
+
+.header-logo img {
+  height: 40px;
+  width: auto;
 }
 
 .header-links {
@@ -175,8 +180,7 @@ body {
 /* Quote Area Styling */
 .quote-area-wrapper {
   display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 140px 10% 140px 10%;
@@ -201,13 +205,14 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 140px 10% 140px 10%;
+  padding: 70px 10% 70px 10%;
   background-color: black;
 }
 /* Call to Action Styling */
 .call-wrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
   padding-top: 80px;
   padding-bottom: 80px;
@@ -217,7 +222,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around; /* Why are you not working */
+  gap: 80px;
   color: #f9faf8;
   background-color: #1c1c1c;
   border-radius: 8px;
