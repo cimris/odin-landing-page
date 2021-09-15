@@ -126,6 +126,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #f9faf8;
   padding: 60px 10% 80px 10%;
   gap: 60px;
 }
@@ -163,6 +164,7 @@ body {
 .jeonghwa {
   object-position: 0 10%;
 }
+
 .information-images p {
   color: #1c1c1c;
   font-size: 18px;
