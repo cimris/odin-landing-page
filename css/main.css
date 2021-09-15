@@ -32,13 +32,13 @@ body {
 .header-logo {
   font-size: 24px;
   font-weight: 600;
-  color: #2b2b2b;
+  color: #1c1c1c;
   margin-right: auto;
 }
 
 .header-links {
   font-size: 18px;
-  color: #2b2b2b;
+  color: #1c1c1c;
 }
 
 /* Header Links Visited and Hover States */
@@ -93,7 +93,7 @@ body {
 /* Sign Up Button Styling */
 .page-catch-one a {
   color: #f9faf8;
-  background-color: #2b2b2b;
+  background-color: #1c1c1c;
   font-size: 18px;
   font-weight: 600;
   text-align: center;
@@ -133,7 +133,7 @@ body {
 .information-wrapper h1 {
   font-size: 36px;
   font-weight: 800; /* Extra Bold */
-  color: #2b2b2b;
+  color: #1c1c1c;
 }
 
 /* Horizontal Images Flexbox */
@@ -148,12 +148,12 @@ body {
   height: 200px;
   width: 200px;
   object-fit: cover;
-  border: 5px solid #2b2b2b;
+  border: 5px solid #1c1c1c;
   border-radius: 16px;
 }
 
 .information-images p {
-  color: #2b2b2b;
+  color: #1c1c1c;
   font-size: 18px;
   line-height: 1.1;
   text-align: center;
@@ -171,7 +171,7 @@ body {
 }
 
 .quote-area-wrapper q {
-  color: #2b2b2b;
+  color: #1c1c1c;
   font-size: 36px;
   font-weight: 300; /* Light */
   font-style: italic;
@@ -200,7 +200,7 @@ body {
   align-items: center;
   justify-content: space-around; /* Why are you not working */
   color: #f9faf8;
-  background-color: #2b2b2b;
+  background-color: #1c1c1c;
   border-radius: 8px;
   padding: 55px 10% 55px 10%;
 }
@@ -248,7 +248,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #2b2b2b;
+  background-color: #1c1c1c;
   color: #f9faf8;
   padding: 42px;
 }
